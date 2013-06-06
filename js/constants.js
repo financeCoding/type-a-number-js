@@ -34,7 +34,7 @@ constants.ACH_REALLY_BORED = 'FFFFFFFFFF';
 constants.LEADERBOARD_EASY = 'GGGGGGGGGG';
 constants.LEADERBOARD_HARD = 'HHHHHHHHHH';
 
-constants.CLIENT_ID = '1234567890.apps.googleusercontent.com';
-constants.APP_ID = '1234567890';
+constants.CLIENT_ID = '150792993474.apps.googleusercontent.com';
+constants.APP_ID = '150792993474';
 
-constants.LINK_PAGE_BASE = 'https://www.example.com/linkPage/index.php';
+constants.LINK_PAGE_BASE = 'http://financecoding.github.io/type-a-number-js/linkPage/index.php';
